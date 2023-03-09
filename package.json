@@ -18,8 +18,8 @@
     "homepage": "https://github.com/Adam42288/nosql-social-network#readme",
 
     "dependencies": {
-      "express": "^4.18.1",
-      "mongoose": "^6.5.2"
+      "express": "^4.17.1",
+      "mongoose": "^6.0.13"
     }
   }
   
